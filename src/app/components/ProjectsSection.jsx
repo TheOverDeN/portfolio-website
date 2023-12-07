@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Discord clone",
     description: "Fully functioning discord clone",
-    image: "/images/projects/1.png",
+    image: "/images/discord.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/TheOverDeN/discord_clone",
     previewUrl: "/",
