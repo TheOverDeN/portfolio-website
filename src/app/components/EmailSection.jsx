@@ -76,6 +76,7 @@ const EmailSection = () => {
                 htmlFor="email"
                 className="text-white block mb-2 text-sm font-medium"
               >
+                Tymczasowo nie działa
                 Your email
               </label>
               <input
