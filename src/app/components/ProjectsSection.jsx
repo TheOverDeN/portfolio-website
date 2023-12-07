@@ -7,11 +7,11 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "Discord clone",
+    description: "Fully functioning discord clone",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/TheOverDeN/discord_clone",
     previewUrl: "/",
   },
   {
