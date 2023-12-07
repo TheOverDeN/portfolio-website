@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Pinterest clone",
-    description: "Fully functioning discord clone",
+    description: "Fully functioning pinterest clone",
     image: "/images/pinterest.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/TheOverDeN/Pinterest-Clone",
