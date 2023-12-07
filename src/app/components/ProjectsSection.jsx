@@ -18,9 +18,9 @@ const projectsData = [
     id: 2,
     title: "Potography Portfolio Website",
     description: "Project 2 description",
-    image: "/images/projects/2.png",
+    image: "/images/pinterest.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/TheOverDeN/Pinterest-Clone",
     previewUrl: "/",
   }
 ];

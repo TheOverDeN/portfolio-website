@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-
+          I am a full stack web developer with a passion for creating interactive and responsive web applications.
           </p>
           <div>
             <Link
