@@ -50,7 +50,6 @@ const HeroSection = () => {
             </Link>
             <Link
               href="https://9jddya.am.files.1drv.com/y4m1UGCRu-8FgM1tLR4FRLMh4VkMAHErWm8vQQn4Q-vLqIe9g_OKvlzZPknXeFsc69X7LbyOh-wsxsYr0XPyVR-ZEwoEN0sMn3r_wWLisrHKhCtDXQmire-LVIoKI3K0VO-p3GG02E10j216OSnJi0tSCykpsT1O13248Rq6x-V5aA?AVOverride=1"
-              download="JG_Resume_CV.docx"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#fc7e77]  to-[#EFAC11] hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
