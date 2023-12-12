@@ -74,14 +74,14 @@ const Contact = () => {
         <div className="mb-6">
         <label>Subject</label>
         <input className="className= bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-                placeholder="Let's talk about..." type="test" name="subject"  minLength={10} required />
+                placeholder="Let's talk about..." type="test" name="subject"  minLength={5} required />
         </div>
         <div className="mb-6">
         <label>Message</label>
         <textarea className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
                 placeholder="Just saying hi" name="message" />
         </div>
-        <input className="bg-gradient-to-r from-[#fc7e77]  to-[#EFAC11] cursor-pointer  text-black font-medium py-2.5 px-5 rounded-lg w-full " type="submit" value="Send" />
+        <input className="bg-gradient-to-r from-[#fc7e77]  to-[#EFAC11] cursor-pointer  text-black font-medium py-2.5 px-5 rounded-lg w-full " minLength={10} required type="submit" value="Send" />
       </form>
      )}
   </div>
